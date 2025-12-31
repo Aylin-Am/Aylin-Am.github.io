@@ -2,7 +2,7 @@
 
 title: "first post"
 date: 2025-12-31
-layout: post
+layout: posts
 ---
 
 hello everyone, welcome!
