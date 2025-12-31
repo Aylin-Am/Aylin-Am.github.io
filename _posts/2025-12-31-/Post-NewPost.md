@@ -19,4 +19,4 @@ my hobbies:
 [when I'm bored](https://www.google.com/maps)  
 
 # meet Wizard Frog eveyone.
-![alt text](C:\git\personal_website_template\assets\images "This is Wizard Frog")
+![wizard frog](../assets/images/frog.jpg "This is Wizard Frog")
