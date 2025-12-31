@@ -6,7 +6,7 @@ layout: posts
 ---
 
 hello everyone, welcome!  
-I don't know what to do.
+I don't know what to say.
 # introduction
 **my name**: Aylin  
 **my last name**: Amoular  
@@ -19,4 +19,4 @@ my hobbies:
 [when I'm bored](https://www.google.com/maps)  
 
 # meet Wizard Frog eveyone.
-![wizard frog](../assets/images/frog.jpg "This is Wizard Frog")
+![wizard frog](/assets/images/frog.jpg "This is Wizard Frog")
