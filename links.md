@@ -8,9 +8,16 @@ modified: 9-14-2019
 comments: false
 ---
 
+## Social:
+* [Email](Aylin.Amoular@gmail.com)
+* [Github](Aylin-Am.github.io)
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+## Education:
+* [My university](https://www.iust.ac.ir/)
+
+## My Favorite Website:
+* [wikipedia](https://www.wikipedia.org/)
+* [geeksforgeeks](https://www.geeksforgeeks.org/)
+* [spotify](https://open.spotify.com/)
+
 
