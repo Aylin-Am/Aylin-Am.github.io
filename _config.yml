@@ -117,28 +117,28 @@ author:
   google_scholar: Q25s5KkAAAAJ
   github: Aylin-Am
   instagram:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:Aylin.Amoular@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Aylin-Am"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: "https://t.me/aylin_amoular"
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: mailto:Aylin.Amoular@gmail.com
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     # url: "https://your-website.com"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     # url: "https://twitter.com/"
+  #   - label: "Facebook"
+  #     icon: "fab fa-fw fa-facebook-square"
+  #     # url: "https://facebook.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/Aylin-Am"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     # url: "https://instagram.com/"
+  #   - label: "Telegram"
+  #     icon: "fab fa-telegram"
+  #     url: "https://t.me/aylin_amoular"
 
 # Site Footer
 # footer:
