@@ -3,12 +3,13 @@ layout: single
 author_profile: true
 permalink: /hobbies/
 title: Hobbies
-tags: [Hoby]
-modified: 9-14-2019
+# tags: [Hoby]
+modified: 03-01-2026
 comments: false
 ---
 
-
-* [BJJ](http://www.bjjheros.com/)
-
-
+## my hobbies:
+- drawing
+- painting
+- watching movies
+- exploring [google maps](https://google.maps.com)
