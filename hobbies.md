@@ -12,4 +12,4 @@ comments: false
 - drawing
 - painting
 - watching movies
-- exploring [google maps](https://google.maps.com)
+- exploring [google maps](https://www.google.com/maps)
