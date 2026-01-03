@@ -10,4 +10,4 @@ layout: post
 - I used turtle module
 
 # This is my drawing
-![drawing](/assets/images/turtle.png "turtle drawing")
+![drawing](../assets/images/turtle.png "turtle drawing")
