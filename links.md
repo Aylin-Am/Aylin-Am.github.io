@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /links/
 title: Links
-tags: [Studying, courses]
+# tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
 ---
@@ -15,7 +15,7 @@ comments: false
 ## Education:
 * [My university](https://www.iust.ac.ir/)
 
-## My Favorite Website:
+## My Favorite Websites:
 * [wikipedia](https://www.wikipedia.org/)
 * [geeksforgeeks](https://www.geeksforgeeks.org/)
 * [spotify](https://open.spotify.com/)
